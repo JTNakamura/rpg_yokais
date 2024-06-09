@@ -1,0 +1,14 @@
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\bin\Debug\net8.0\Aula 11 - RPG.exe
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\bin\Debug\net8.0\Aula 11 - RPG.deps.json
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\bin\Debug\net8.0\Aula 11 - RPG.runtimeconfig.json
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\bin\Debug\net8.0\Aula 11 - RPG.dll
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\bin\Debug\net8.0\Aula 11 - RPG.pdb
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.AssemblyInfoInputs.cache
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.AssemblyInfo.cs
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.csproj.CoreCompileInputs.cache
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.dll
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\refint\Aula 11 - RPG.dll
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.pdb
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\Aula 11 - RPG.genruntimeconfig.cache
+D:\FACULDADE\1.TRABALHOS E ATIVIDADES\Programacao\Aula 11 - RPG\obj\Debug\net8.0\ref\Aula 11 - RPG.dll
